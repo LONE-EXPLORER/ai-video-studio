@@ -1,0 +1,22 @@
+{
+  "name": "ai-video-studio",
+  "version": "1.0.0",
+  "description": "AI Video Studio — Local-First High-Retention Reel & Shorts Editing Pipeline with Kinetic Typography, B-Roll & DaVinci Resolve Multi-Track FCPXML Export",
+  "main": "app/main.py",
+  "scripts": {
+    "start": "python3 -m streamlit run app/main.py --server.port 8501 --server.headless true",
+    "test": "pytest",
+    "build": "pip install -r requirements.txt"
+  },
+  "keywords": [
+    "ai-video-studio",
+    "video-editing",
+    "gemini",
+    "ffmpeg",
+    "streamlit"
+  ],
+  "author": "LONE-EXPLORER",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
