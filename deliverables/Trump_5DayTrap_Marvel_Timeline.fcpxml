@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fcpxml version="1.9">
+    <resources>
+        <format id="r1" name="FFVideoFormat1920p30" frameDuration="1/30s" width="1080" height="1920"/>
+        <asset id="r2" name="conformed_source_0" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/jobs/prod-1e903378-4fda-4f41-8caf-966773cd870a/sources/conformed_source_0.mp4" start="0s" duration="1804/30s" hasVideo="1" hasAudio="1" format="r1"/>
+        <asset id="r3" name="ambient_calm" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/music/ambient_calm.wav" start="0s" duration="600s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r4" name="geopolitics_radar_grid" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/broll/geopolitics_radar_grid.mp4" start="0s" duration="135/30s" hasVideo="1" hasAudio="0" format="r1"/>
+        <asset id="r5" name="law_justice_scales" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/broll/law_justice_scales.mp4" start="0s" duration="120/30s" hasVideo="1" hasAudio="0" format="r1"/>
+        <asset id="r6" name="warning_trap_pulse" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/broll/warning_trap_pulse.mp4" start="0s" duration="135/30s" hasVideo="1" hasAudio="0" format="r1"/>
+        <asset id="r7" name="tech_code_matrix" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/broll/tech_code_matrix.mp4" start="0s" duration="135/30s" hasVideo="1" hasAudio="0" format="r1"/>
+        <asset id="r8" name="impact" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/impact.wav" start="0s" duration="15/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r9" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r10" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r11" name="swoosh_short" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/swoosh_short.wav" start="0s" duration="13/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r12" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r13" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r14" name="swoosh_short" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/swoosh_short.wav" start="0s" duration="13/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r15" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r16" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r17" name="swoosh_short" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/swoosh_short.wav" start="0s" duration="13/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r18" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r19" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r20" name="swoosh_short" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/swoosh_short.wav" start="0s" duration="13/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r21" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r22" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r23" name="riser" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/riser.wav" start="0s" duration="63/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r24" name="swoosh_short" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/swoosh_short.wav" start="0s" duration="13/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r25" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r26" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r27" name="swoosh_short" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/swoosh_short.wav" start="0s" duration="13/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r28" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r29" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r30" name="swoosh_short" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/swoosh_short.wav" start="0s" duration="13/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r31" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r32" name="whoosh" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/assets/sfx/whoosh.wav" start="0s" duration="21/30s" hasVideo="0" hasAudio="1" format="r1"/>
+        <asset id="r33" name="captions" src="file:///Users/pranjalshahi/.gemini/antigravity/scratch/ai-video-studio/jobs/prod-1e903378-4fda-4f41-8caf-966773cd870a/transcripts/captions.ass" start="0s" duration="1577/30s" hasVideo="0" hasAudio="0" format="r1"/>
+    </resources>
+    <library>
+        <event name="AI Studio — Sequences">
+            <project name="Marvel Cut prod-1e9">
+                <sequence format="r1" duration="1577/30s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+                    <spine>
+                        <clip name="A-Roll_Clip_c001" offset="0/30s" duration="113/30s" start="0/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c001" offset="0s" duration="113/30s" start="0/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c002" offset="113/30s" duration="134/30s" start="119/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c002" offset="0s" duration="134/30s" start="119/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c003" offset="247/30s" duration="32/30s" start="256/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c003" offset="0s" duration="32/30s" start="256/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c004" offset="279/30s" duration="84/30s" start="308/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c004" offset="0s" duration="84/30s" start="308/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c005" offset="363/30s" duration="113/30s" start="401/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c005" offset="0s" duration="113/30s" start="401/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c006" offset="476/30s" duration="40/30s" start="522/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c006" offset="0s" duration="40/30s" start="522/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c007" offset="516/30s" duration="76/30s" start="569/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c007" offset="0s" duration="76/30s" start="569/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c008" offset="592/30s" duration="41/30s" start="647/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c008" offset="0s" duration="41/30s" start="647/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c009" offset="632/30s" duration="134/30s" start="697/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c009" offset="0s" duration="134/30s" start="697/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c010" offset="766/30s" duration="28/30s" start="838/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c010" offset="0s" duration="28/30s" start="838/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c011" offset="795/30s" duration="28/30s" start="873/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c011" offset="0s" duration="28/30s" start="873/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c012" offset="824/30s" duration="30/30s" start="922/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c012" offset="0s" duration="30/30s" start="922/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c013" offset="853/30s" duration="177/30s" start="961/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c013" offset="0s" duration="177/30s" start="961/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c014" offset="1030/30s" duration="49/30s" start="1149/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c014" offset="0s" duration="49/30s" start="1149/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c015" offset="1079/30s" duration="95/30s" start="1198/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c015" offset="0s" duration="95/30s" start="1198/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c016" offset="1174/30s" duration="29/30s" start="1304/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c016" offset="0s" duration="29/30s" start="1304/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c017" offset="1203/30s" duration="60/30s" start="1339/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c017" offset="0s" duration="60/30s" start="1339/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c018" offset="1263/30s" duration="113/30s" start="1410/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c018" offset="0s" duration="113/30s" start="1410/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c019" offset="1376/30s" duration="30/30s" start="1542/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c019" offset="0s" duration="30/30s" start="1542/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c020" offset="1407/30s" duration="37/30s" start="1576/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c020" offset="0s" duration="37/30s" start="1576/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c021" offset="1443/30s" duration="23/30s" start="1617/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c021" offset="0s" duration="23/30s" start="1617/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c022" offset="1466/30s" duration="52/30s" start="1655/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c022" offset="0s" duration="52/30s" start="1655/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c023" offset="1518/30s" duration="29/30s" start="1726/30s" ref="r2" lane="0">
+                            <adjust-transform scale="1.1500 1.1500" position="0 0" anchor="0 0"/>
+                            <audio name="Dialogue_c023" offset="0s" duration="29/30s" start="1726/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <clip name="A-Roll_Clip_c024" offset="1547/30s" duration="29/30s" start="1768/30s" ref="r2" lane="0">
+                            <audio name="Dialogue_c024" offset="0s" duration="29/30s" start="1768/30s" ref="r2" lane="-1" role="dialogue">
+                                <adjust-volume amount="0dB"/>
+                            </audio>
+                        </clip>
+                        <marker start="0/30s" duration="1/30s" value="🪝 Hook" completed="0"/>
+                        <marker start="476/30s" duration="1/30s" value="✂️ Cut 5" completed="0"/>
+                        <marker start="795/30s" duration="1/30s" value="✂️ Cut 10" completed="0"/>
+                        <marker start="1174/30s" duration="1/30s" value="✂️ Cut 15" completed="0"/>
+                        <marker start="1443/30s" duration="1/30s" value="✂️ Cut 20" completed="0"/>
+                        <clip name="B-Roll_geopolitics_radar_gr" offset="342/30s" duration="75/30s" start="0s" ref="r4" lane="1">
+                            <adjust-transform scale="0.95 0.95" position="0 0"/>
+                        </clip>
+                        <clip name="B-Roll_law_justice_scales" offset="651/30s" duration="60/30s" start="0s" ref="r5" lane="1">
+                            <adjust-transform scale="0.95 0.95" position="0 0"/>
+                        </clip>
+                        <clip name="B-Roll_warning_trap_pulse" offset="966/30s" duration="75/30s" start="0s" ref="r6" lane="1">
+                            <adjust-transform scale="0.95 0.95" position="0 0"/>
+                        </clip>
+                        <clip name="B-Roll_tech_code_matrix" offset="1263/30s" duration="75/30s" start="0s" ref="r7" lane="1">
+                            <adjust-transform scale="0.95 0.95" position="0 0"/>
+                        </clip>
+                        <audio name="SFX_impact_00" offset="0/30s" duration="12/30s" start="0s" ref="r8" lane="-2" role="effects">
+                            <adjust-volume amount="75%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_01" offset="111/30s" duration="18/30s" start="0s" ref="r9" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_02" offset="245/30s" duration="18/30s" start="0s" ref="r10" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_swoosh_short_03" offset="278/30s" duration="10/30s" start="0s" ref="r11" lane="-2" role="effects">
+                            <adjust-volume amount="54%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_04" offset="361/30s" duration="18/30s" start="0s" ref="r12" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_05" offset="474/30s" duration="18/30s" start="0s" ref="r13" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_swoosh_short_06" offset="514/30s" duration="10/30s" start="0s" ref="r14" lane="-2" role="effects">
+                            <adjust-volume amount="54%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_07" offset="590/30s" duration="18/30s" start="0s" ref="r15" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_08" offset="631/30s" duration="18/30s" start="0s" ref="r16" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_swoosh_short_09" offset="765/30s" duration="10/30s" start="0s" ref="r17" lane="-2" role="effects">
+                            <adjust-volume amount="54%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_10" offset="794/30s" duration="18/30s" start="0s" ref="r18" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_11" offset="822/30s" duration="18/30s" start="0s" ref="r19" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_swoosh_short_12" offset="852/30s" duration="10/30s" start="0s" ref="r20" lane="-2" role="effects">
+                            <adjust-volume amount="54%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_13" offset="1029/30s" duration="18/30s" start="0s" ref="r21" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_14" offset="1078/30s" duration="18/30s" start="0s" ref="r22" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_riser_15" offset="1170/30s" duration="60/30s" start="0s" ref="r23" lane="-2" role="effects">
+                            <adjust-volume amount="45%"/>
+                        </audio>
+                        <audio name="SFX_swoosh_short_16" offset="1172/30s" duration="10/30s" start="0s" ref="r24" lane="-2" role="effects">
+                            <adjust-volume amount="54%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_17" offset="1202/30s" duration="18/30s" start="0s" ref="r25" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_18" offset="1262/30s" duration="18/30s" start="0s" ref="r26" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_swoosh_short_19" offset="1375/30s" duration="10/30s" start="0s" ref="r27" lane="-2" role="effects">
+                            <adjust-volume amount="54%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_20" offset="1405/30s" duration="18/30s" start="0s" ref="r28" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_21" offset="1442/30s" duration="18/30s" start="0s" ref="r29" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_swoosh_short_22" offset="1465/30s" duration="10/30s" start="0s" ref="r30" lane="-2" role="effects">
+                            <adjust-volume amount="54%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_23" offset="1517/30s" duration="18/30s" start="0s" ref="r31" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="SFX_whoosh_24" offset="1546/30s" duration="18/30s" start="0s" ref="r32" lane="-2" role="effects">
+                            <adjust-volume amount="65%"/>
+                        </audio>
+                        <audio name="BGM_Ambient" offset="0s" duration="1577/30s" start="0s" ref="r3" lane="-3" role="music">
+                            <adjust-volume amount="35%"/>
+                        </audio>
+                        <caption name="Kinetic_Captions" offset="0s" duration="1577/30s" start="0s" ref="r33" lane="2" role="captions.iTT?captionFormat=ITT"/>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>

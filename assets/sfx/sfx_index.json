@@ -1,0 +1,32 @@
+{
+  "whoosh": {
+    "path": "assets/sfx/whoosh.wav",
+    "duration": 0.6,
+    "trigger": "punch_in",
+    "volume": 0.65
+  },
+  "pop": {
+    "path": "assets/sfx/pop.wav",
+    "duration": 0.3,
+    "trigger": "word_highlight",
+    "volume": 0.8
+  },
+  "riser": {
+    "path": "assets/sfx/riser.wav",
+    "duration": 2.0,
+    "trigger": "hook_intro",
+    "volume": 0.45
+  },
+  "impact": {
+    "path": "assets/sfx/impact.wav",
+    "duration": 0.4,
+    "trigger": "power_word",
+    "volume": 0.9
+  },
+  "swoosh_short": {
+    "path": "assets/sfx/swoosh_short.wav",
+    "duration": 0.35,
+    "trigger": "jump_cut",
+    "volume": 0.6
+  }
+}

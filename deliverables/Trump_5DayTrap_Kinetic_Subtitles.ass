@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dynamic,Arial,64,&H00FFFFFF,&H0000D7FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3.0,1.5,2,20,20,100,1
+Style: Clean,Arial,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.0,1.0,2,20,20,80,1
+Style: Minimal,Arial,36,&H00FFFFFF,&H00FFFFFF,&H00000000,&HAA000000,0,0,0,0,100,100,0,0,1,1.0,0.0,2,20,20,50,1
+Style: Default,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2.0,1.0,2,20,20,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.36,Dynamic,,0,0,0,,{\k18}Stop {\k40}everything, {\k18}forget {\k14}the {\k30}headlines.
+Dialogue: 0,0:00:01.42,0:00:03.38,Dynamic,,0,0,0,,{\k24}Donald {\k26}Trump {\k30}just {\k18}took {\k6}a {\k26}massive {\k24}gamble {\k22}on {\k20}Iran.
+Dialogue: 0,0:00:04.10,0:00:06.72,Dynamic,,0,0,0,,{\k2}He {\k30}just {\k28}announced {\k12}a {\k14}five {\k10}-day {\k22}pause {\k10}on {\k26}striking {\k46}Iranian {\k24}power {\k38}plants.
+Dialogue: 0,0:00:07.00,0:00:07.82,Dynamic,,0,0,0,,{\k14}And {\k10}you {\k14}think {\k16}it's {\k28}peace?
+Dialogue: 0,0:00:08.14,0:00:09.14,Dynamic,,0,0,0,,{\k6}Ha, {\k22}no, {\k14}no, {\k10}no, {\k14}no.
+Dialogue: 0,0:00:10.20,0:00:12.78,Dynamic,,0,0,0,,{\k30}Trump {\k30}has {\k36}explicitly {\k34}said {\k26}he {\k34}doesn't {\k16}want {\k10}a {\k42}ceasefire.
+Dialogue: 0,0:00:13.28,0:00:16.86,Dynamic,,0,0,0,,{\k44}Who {\k36}wants {\k16}to {\k64}ceasefire {\k48}when {\k14}you {\k12}are {\k58}obliterating {\k12}the {\k18}other {\k36}side?
+Dialogue: 0,0:00:17.34,0:00:18.46,Dynamic,,0,0,0,,{\k22}Now {\k30}that's {\k6}the {\k20}cunning {\k34}part.
+Dialogue: 0,0:00:18.74,0:00:20.64,Dynamic,,0,0,0,,{\k38}A {\k44}ceasefire, {\k10}it {\k12}is {\k8}a {\k18}legal {\k46}promise.
+Dialogue: 0,0:00:20.88,0:00:22.64,Dynamic,,0,0,0,,{\k20}A {\k24}pause, {\k32}it's {\k14}just {\k12}a {\k28}tactical {\k36}reset.
+Dialogue: 0,0:00:23.22,0:00:25.80,Dynamic,,0,0,0,,{\k16}It's {\k8}the {\k18}time {\k16}to {\k42}reload {\k40}missiles, {\k16}find {\k14}new {\k52}targets,
+Dialogue: 0,0:00:26.02,0:00:27.42,Dynamic,,0,0,0,,{\k28}all {\k24}while {\k18}your {\k14}enemy {\k16}is {\k40}distracted.
+Dialogue: 0,0:00:27.42,0:00:29.84,Dynamic,,0,0,0,,{\k64}So, {\k54}is {\k14}this {\k16}a {\k22}doh, {\k2}ka?
+Dialogue: 0,0:00:30.62,0:00:31.46,Dynamic,,0,0,0,,{\k34}History {\k24}says {\k26}yes.
+Dialogue: 0,0:00:31.92,0:00:35.20,Dynamic,,0,0,0,,{\k42}Remember {\k54}FAP28, {\k16}when {\k6}the {\k16}world {\k16}was {\k22}thinking {\k46}diplomacy {\k22}was {\k26}happening {\k16}in {\k22}Oman,
+Dialogue: 0,0:00:35.38,0:00:37.74,Dynamic,,0,0,0,,{\k28}US {\k14}and {\k28}Israel {\k42}launched {\k16}their {\k22}most {\k18}brutal {\k26}attack {\k20}on {\k22}Iran,
+Dialogue: 0,0:00:37.90,0:00:39.60,Dynamic,,0,0,0,,{\k66}wiping {\k18}out {\k16}their {\k28}entire {\k18}top {\k24}leadership.
+Dialogue: 0,0:00:39.90,0:00:42.96,Dynamic,,0,0,0,,{\k22}By {\k22}giving {\k32}Iran {\k54}exactly {\k28}120 {\k36}hours, {\k14}Trump {\k20}isn't {\k28}offering {\k12}a {\k16}deal.
+Dialogue: 0,0:00:43.38,0:00:44.24,Dynamic,,0,0,0,,{\k26}He's {\k24}offering {\k18}an {\k18}ultimate.
+Dialogue: 0,0:00:44.52,0:00:46.38,Dynamic,,0,0,0,,{\k32}He's {\k28}overing {\k10}his {\k22}finger {\k18}over {\k14}the {\k18}big {\k16}red {\k28}button.
+Dialogue: 0,0:00:46.88,0:00:50.60,Dynamic,,0,0,0,,{\k44}Surrender {\k28}now, {\k22}or {\k20}these {\k16}will {\k12}be {\k10}the {\k32}last {\k30}five {\k40}peaceful {\k26}days {\k16}that {\k20}we'll {\k28}ever {\k12}see.
+Dialogue: 0,0:00:51.16,0:00:52.20,Dynamic,,0,0,0,,{\k44}So, {\k14}what {\k8}do {\k12}you {\k24}think?
+Dialogue: 0,0:00:52.40,0:00:54.38,Dynamic,,0,0,0,,{\k30}Is {\k12}this {\k14}a {\k22}must {\k36}-restro {\k42}or {\k42}diplomacy?
+Dialogue: 0,0:00:54.86,0:00:56.70,Dynamic,,0,0,0,,{\k44}Or {\k20}just {\k16}a {\k20}calm {\k40}holding {\k22}and {\k22}stop?
+Dialogue: 0,0:00:57.34,0:00:59.72,Dynamic,,0,0,0,,{\k52}Comment {\k28}below, {\k14}because {\k26}this {\k12}is {\k18}why.

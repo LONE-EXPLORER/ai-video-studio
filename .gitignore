@@ -1,0 +1,28 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment secrets
+.env
+.env.local
+
+# Heavy run artifacts & jobs (1.6GB+)
+jobs/
+.agents/
+.pytest_cache/
+.streamlit/
+
+# Large media deliverables (keep git repo light)
+deliverables/*.mp4
+test_sample.mp4
+
+# OS metadata & logs
+.DS_Store
+*.log
